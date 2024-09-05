@@ -31,7 +31,9 @@ The primary objective of the project was to:
 ## How to Run
 
 1. Clone the repository.
-    git clone https://github.com/mrgagan17/MPG-Predictor-R.git
+
+   git clone https://github.com/mrgagan17/MPG-Predictor-R.git
+
 2. Open the R script in an R environment (RStudio).
 3. Run the script to generate predictions and visualizations.
 
