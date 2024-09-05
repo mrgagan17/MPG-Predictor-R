@@ -44,3 +44,4 @@ The primary objective of the project was to:
 - Below is the graph comparing actual vs. predicted MPG values:
   ![Actual vs Predicted MPG](images/plot.png)
 
+
