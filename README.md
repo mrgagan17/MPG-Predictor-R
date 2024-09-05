@@ -1,7 +1,6 @@
-# MPG-Predictor-R
-The application of multivariate linear regression in R to predict the miles per gallon (MPG) of cars.
 # Multivariate Linear Regression Model for Predicting Miles Per Gallon (MPG)
 
+The application of multivariate linear regression in R to predict the miles per gallon (MPG) of cars.
 In this project, a multivariate linear regression model was developed to predict the miles per gallon (MPG) of cars based on various factors. Using the well-known `mtcars` dataset, the model was built to explore the relationships between MPG and key vehicle characteristics such as weight (wt), horsepower (hp) and quarter-mile time (qsec).
 
 The primary objective of the project was to:
