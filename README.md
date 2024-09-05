@@ -42,5 +42,5 @@ The primary objective of the project was to:
 - The predicted MPG for new data points based on weight, horsepower, and quarter-mile time.
 - Visual representation comparing actual vs. predicted MPG values.
 - Below is the graph comparing actual vs. predicted MPG values:
-  ![Actual vs Predicted MPG](images/plot.jpg)
+  ![Actual vs Predicted MPG](images/plot.png)
 
